@@ -1,0 +1,73 @@
+
+body {
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+
+.one{
+  text-align: center;
+  margin: auto;
+  width: auto;
+  color: green;
+}
+
+}
+.titolo-grande{
+  color: green;
+  text-align: center;
+}
+
+.row{
+  display: inline-block;
+  background-color: green;
+  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
+  width: 2500px;
+  padding: 20px;
+  text-align: center;
+}
+
+.prima-parte{
+  color: white;
+  padding: 150px;
+  font-size: 20px;
+  margin: auto;
+}
+
+.barra-1{
+  width: 500px;
+  background-color: orange;
+  height: 60px;
+  position: absolute;
+  border-radius: 20px;
+}
+
+.seconda-parte{
+  color: white;
+  padding: 150px;
+  font-size: 20px;
+  margin: auto;
+}
+
+.barra-2{
+  width: 900px;
+  background-color: green;
+  height: 60px;
+  position: absolute;
+  border-radius: 20px;
+}
+.terza-parte{
+  color: white;
+  padding: 150px;
+  font-size: 20px;
+  margin: auto;
+}
+
+.barra-3{
+  width: 200px;
+  background-color: red;
+  height: 60px;
+  position: absolute;
+  border-radius: 20px;
+}
